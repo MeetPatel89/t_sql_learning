@@ -1,3 +1,4 @@
+-- run ddl_dml_query_5 before running below query
 
 with
     tblAttendanceTwice
